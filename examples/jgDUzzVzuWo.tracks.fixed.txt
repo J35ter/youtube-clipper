@@ -1,0 +1,39 @@
+# Source: https://www.youtube.com/watch?v=jgDUzzVzuWo
+#         (list=TLPQMDYxMDIwMjYCu4mJX-0x8w, index=4)
+# Video:  "1930s GENUINE Music | Authentic 1930s Recordings | No AI" — Classical Tunes — 1:27:18
+# Pasted verbatim by the user on 2026-10-06. Do not edit in place; corrections go in a
+# separate *.tracks.tsv so the original input stays auditable.
+#
+# ANOMALIES (see PLAN.md §3):
+#   line 16/17 are out of order (00:47:28 before 00:47:06) — YouTube's own chapter list drops
+#   "Pleasin' Paul" entirely; "Plain Dirt" most likely belongs at 00:44:28.
+#   line 15 -> 16 gap is 6:19 (all other gaps 2:25-3:30); line 27 runs 5:28.
+
+00:00:00 Doin' What I Please - Don Redman - 1932
+00:02:53 Chasin' Shadows - Louis Prima - 1935
+00:05:53 Rose Of The Rio Grande - Ivie Andreson - 1938
+00:08:47 Mean To Me - Billie Holiday - 1937
+00:11:51 Mood Indigo - Duke Ellington - 1930
+00:14:47 Blue Yodel No.8 - Jimmie Rogers - 1930
+00:17:24 Georgia On My Mind - Mildred Baily - 1931
+00:20:50 Heebie Jeebies - Mills Blues Rhythm Band - 1931
+00:23:59 It's Only A Paper Moon - Paul Whiteman - 1933
+00:27:24 Stardust - Hoagy Carmichael - 1927
+00:29:49 Remember My Forgotten Man - George Hall - 1933
+00:32:41 I'm Down In The Dumps - Bessie Smith - 1933
+00:35:50 Okay Toots - Eddie Cantor - 1934
+00:38:15 You’re The Tops - Etherl Merman - 1934
+00:41:09 My Sweet - Louis Armstrong - 1930
+00:44:28 Plain Dirt - McKinney's Cotton Pickers - 1929
+00:47:06 Pleasin’ Paul - Henry Allen - 1929
+00:50:02 Tip Easy Blues - Lee Collins - 1931
+00:53:20 Oh Mo'Nah! - Roy Fox Band - 1931
+00:56:57 Do Right Daddy Blues - Gene Autry - 1931
+01:00:14 When Your Lover Has Gone - Louis Armstrong - 1931
+01:03:18 Creole Love Call - Duke Ellington - 1927
+01:06:14 Rockin’ Chair - Hoagy Carmichael - 1927
+01:09:38 Wherever There’s A Will Baby - Coleman Hawkins - 1929
+01:12:37 Need A Little Sugar In My Bowl - Bessie Smith - 1931
+01:15:24 Goodnight Sweetheart - The New Mayfair Orchestra - 1931
+01:18:44 Rhymes - Leslie Sarony - 1931
+01:24:12 Sugar Foot Stomp - Fletcher Henderson - 1929

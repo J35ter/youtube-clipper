@@ -1,0 +1,23 @@
+# downloaded audio and ripped music (large, regenerable)
+_master/
+*.m4a
+*.mp3
+*.opus
+*.part
+*.parts/
+
+# rips produced on this machine live outside the repo by default
+*.jpg
+*.jpeg
+!docs/**/*.jpg
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# scratch
+.probe/
+*.log
+.DS_Store
